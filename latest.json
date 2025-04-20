@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1a",
+  "changelog": ["New token actions", "Bug fix: compute budget"],
+  "downloadUrlWindows": "https://github.com/4oco4ow/aura_update/releases/latest/download/aura.zip",
+  "downloadUrlMac": "https://github.com/4oco4ow/aura_update/releases/latest/download/aura.dmg"
+}
