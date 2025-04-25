@@ -3,5 +3,5 @@
   "changelog": [""],
   "downloadUrlWindows": "https://github.com/4oco4ow/aura_update/releases/latest/download/aura.zip",
   "downloadUrlMac": "https://github.com/4oco4ow/aura_update/releases/latest/download/aura.zip",
-  "forceUpdate": false
+  "forceUpdate": true
 }
